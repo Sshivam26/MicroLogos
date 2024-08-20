@@ -4,13 +4,7 @@ const Signature = () => {
   return (
     <>
       Created by&nbsp;
-      <Typography
-        component="a"
-        href="#"
-        alt="link to twitter"
-        target="_blank"
-        rel="noreferrer"
-      >
+      <Typography component="a" href="#" alt="link to twitter" target="_blank" rel="noreferrer">
         <strong>Shivam Adbhute</strong>
       </Typography>
     </>
